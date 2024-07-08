@@ -25,7 +25,7 @@ lr = 1e-2;
 
 %%
 current_path = pwd;
-%where_to_save = "/home/yusuf/Desktop/fuzzy/tests_gauss_last_paper/tests_concrete";
+
 
 
 number_mf = 5; % number of rules == number of membership functions
