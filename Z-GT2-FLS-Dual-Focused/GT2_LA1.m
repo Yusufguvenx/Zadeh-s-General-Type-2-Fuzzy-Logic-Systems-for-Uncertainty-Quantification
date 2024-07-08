@@ -34,7 +34,7 @@ number_mf = 5; % number of rules == number of membership functions
 number_inputs = min(size(x));
 number_outputs = min(size(y));
 
-number_of_epoch = 1;
+number_of_epoch = 100;
 
 input_membership_type = "gaussmf";
 
