@@ -3,7 +3,7 @@
 Matlab implementation of the following paper:
 
 ```
-Y. Guven, A. Koklu, T. Kumbasar, 2024. Exploring Zadeh's General Type-2 Fuzzy Logic Systems for Uncertainty Quantification
+Y. Guven, A. Koklu, T. Kumbasar, 2024. Exploring Zadeh's General Type-2 Fuzzy Logic Systems for Uncertainty Quantification, IEEE TFS.
 ```
 We kindly ask that to cite the above mentioned paper if you use GT2-FLSs functions and you publish papers about work that was performed using these codes.
 
