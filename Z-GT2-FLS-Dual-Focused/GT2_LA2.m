@@ -1,7 +1,7 @@
 % Here, we are implementing gauss shape GT2 for boston housing dataset for
 % an example. 
 % Rule Number is 5.
-% alpha = [0.01 0.5 1], (as we discussed in the last meeting)
+% alpha = [0.01 0.5 1]
 % MAx-Min Normalization has been applied
 % We use LA2 Learning Approach in this example
 %Aiming %99 coverage with tau_upper = 0.995 and tau_lower = 0.005
